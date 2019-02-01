@@ -1,0 +1,89 @@
+/* Imported Fonts---------------------------------------------------------------------*/
+@import url("https://fonts.googleapis.com/css?family=Monoton|Indie+Flower");
+
+
+/* End of Imported Fonts--------------------------------------------------------------*/
+
+/* HEADER-----------------------------------------------------------------------------*/
+
+/* NAVIGATION HEADER */
+#navbar-nav{
+    border: none;
+    border-radius: 0;
+}
+
+
+.color-me-first {
+    background-color: #000
+}
+
+.center-me {
+    text-align: center;
+    position: relative;
+}
+
+.margin-me {
+    margin: 15px;
+}
+
+/* Title */
+
+@media (min-width: 992px) {
+    .center-me-vertically-custom {
+        padding-top: 75px;
+    }
+}
+
+.unique-font {
+    font-family: "Monoton", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    line-height: 1;
+    color: #ffff00;
+    animation: neon 0.5s ease-in-out infinite alternate;
+}
+
+
+@keyframes neon {
+    from {
+        text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+        0 0 30px rgba(202, 228, 225, 0.34),
+        0 0 12px rgba(30, 85, 242, 0.52),
+        0 0 21px rgba(30, 37, 242, 0.83),
+        0 0 34px rgb(21, 18, 241, 0.87),
+        0 0 54px rgba(30, 37, 242, 0.92);
+    }
+    to {
+        text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+        0 0 30px rgba(202, 228, 225, 0.60),
+        0 0 12px rgba(30, 85, 242, 0.90),
+        0 0 21px rgba(33, 30, 242, 0.99),
+        0 0 34px rgb(21, 18, 241, 0.99),
+        0 0 54px rgb(30, 37, 242, 0.99)
+    }
+}
+
+/* Slogan */
+.fancy-quote-font {
+    font-family:"Indie Flower", sans-serif;
+    color: #ffff00;
+    font-size: 900;
+}
+
+
+/* NAVIGATION LINKS */
+
+
+
+
+
+
+
+
+
+
+
+
+.mememe {
+    background-color: red;
+}
