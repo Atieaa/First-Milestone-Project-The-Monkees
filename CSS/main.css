@@ -1,4 +1,5 @@
 /* Imported Fonts---------------------------------------------------------------------*/
+
 @import url("https://fonts.googleapis.com/css?family=Monoton|Indie+Flower");
 
 
@@ -7,14 +8,16 @@
 /* HEADER-----------------------------------------------------------------------------*/
 
 /* NAVIGATION HEADER */
-#navbar-nav{
+
+#navbar-nav {
     border: none;
     border-radius: 0;
 }
 
 
 .color-me-first {
-    background-color: #000
+    background-color: #000;
+    position: relative;
 }
 
 .center-me {
@@ -37,10 +40,15 @@
 .unique-font {
     font-family: "Monoton", sans-serif;
     font-size: 50px;
+    font-weight: 500;
     text-align: center;
     line-height: 1;
     color: #ffff00;
     animation: neon 0.5s ease-in-out infinite alternate;
+}
+
+.no-decoration a:hover{
+    text-decoration: none;
 }
 
 
@@ -64,14 +72,53 @@
 }
 
 /* Slogan */
+
 .fancy-quote-font {
-    font-family:"Indie Flower", sans-serif;
+    font-family: "Indie Flower", sans-serif;
     color: #ffff00;
-    font-size: 900;
+    font-weight: 900;
+    animation: neon 0.5s ease-in-out infinite alternate;
+}
+
+@media (min-width: 992px) {
+    .center-me-vertically-custom-2 {
+        padding-top: 170px;
+    }
+}
+
+/* NAVIGATION LINKS */
+
+/* Links */
+
+.unordered_list_style {
+    font-family: "Monoton", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1;
+    color: #ffff00;
+    text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
 }
 
 
-/* NAVIGATION LINKS */
+.custom-li:hover {
+    background-color: #FFFF00;
+}
+
+@media (min-width: 768px) {
+    .center-me-2 {
+        width: 620px;
+        margin: auto;
+    }
+}
+
+/* END OF HEADER--------------------------------------------------------------*/
+
 
 
 
@@ -85,5 +132,5 @@
 
 
 .mememe {
-    background-color: red;
+    background-color: #FFFF00;
 }
