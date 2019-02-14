@@ -47,7 +47,7 @@
     animation: neon 0.5s ease-in-out infinite alternate;
 }
 
-.no-decoration a:hover{
+.no-decoration a:hover {
     text-decoration: none;
 }
 
@@ -118,6 +118,141 @@
 }
 
 /* END OF HEADER--------------------------------------------------------------*/
+
+/* FOOTER--------------------------------------------------------------*/
+
+/*Socials*/
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+
+
+.faso {
+    margin: 5px;
+    padding: 15px;
+    width: 65px;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
+
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: #fff;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: #fff;
+}
+
+.fa-instagram {
+    background: #125688;
+    color: #fff;
+}
+
+.fa-youtube {
+    background: #bb0000;
+    color: #fff;
+}
+
+@media (min-width: 992px) {
+    .center-me-vertically-custom-3 {
+        top: 23px;
+    }
+}
+
+
+/*Title and Copyright*/
+
+.fa-copyright {
+    font-size: 16px;
+    text-align: center;
+    color: #ffff00;
+    text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
+}
+
+
+.unique-font-2 {
+    font-family: "Monoton", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1;
+    color: #ffff00;
+    animation: neon 0.5s ease-in-out infinite alternate;
+}
+
+.unique-font-3 {
+    color: #ffff00;
+    text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
+}
+
+/* Subscribe button */
+
+#custom-button-1 {
+    background: #0000ff;
+    border-radius: 1000px;
+    padding: 8px 20px;
+    color: #ffff00;
+    display: inline-block;
+    font: normal 700 24px/1 "Indie Flower", cursive;
+    text-align: center;
+    text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
+}
+
+
+@media (min-width: 992px) {
+    .center-me-vertically-custom-4 {
+        top: 37px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .center-me-vertically-custom-4 {
+        top: 49px;
+    }
+}
+
+@media (max-width: 768px) {
+    .center-me-vertically-custom-4 {
+        margin-bottom: 50px;
+    }
+}
+
+
+
+
 
 
 
