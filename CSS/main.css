@@ -9,7 +9,7 @@
 
 .header-style {
     border-style: solid;
-    border-color: red;
+    border-color: #ff0000;
     border-radius: 2px;
     border-width: 10px;
 }
@@ -143,6 +143,7 @@
 }
 
 
+
 .faso {
     margin: 5px;
     padding: 15px;
@@ -159,6 +160,20 @@
     0 0 34px rgb(21, 18, 241, 0.87),
     0 0 54px rgba(30, 37, 242, 0.92);
 
+}
+
+@media (max-width: 767px) {
+    .faso {
+        margin-top: 10px;
+        padding: 5px;
+        width: 30px;
+        font-size: 20px;
+        font-weight: 500;
+        text-align: center;
+        text-decoration: none;
+        border-radius: 50%;
+        text-shadow: 0 0 6px rgba(202, 228, 225, 0.92), 0 0 30px rgba(202, 228, 225, 0.34), 0 0 12px rgba(30, 85, 242, 0.52), 0 0 21px rgba(30, 37, 242, 0.83), 0 0 34px rgb(21, 18, 241, 0.87), 0 0 54px rgba(30, 37, 242, 0.92);
+    }
 }
 
 .fa-facebook {
@@ -285,8 +300,24 @@
     color: #ffff00;
 }
 
+/*Line break*/
+.hr-custom {
+    border-top: 10px dotted #ffff00;
+    width: 85%;
+    
+}
 
 
+/*Iconic Youtube Video*/
+.hr-custom-2 {
+    border-top: 3px solid #ff0000;
+    width: 10%;
+}
+
+.video-custom-1 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
 
 
 
