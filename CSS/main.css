@@ -7,6 +7,16 @@
 
 /* HEADER-----------------------------------------------------------------------------*/
 
+.header-style {
+    border-style: solid;
+    border-color: red;
+    border-radius: 2px;
+    border-width: 10px;
+}
+
+
+
+
 /* NAVIGATION HEADER */
 
 #navbar-nav {
@@ -250,9 +260,30 @@
     }
 }
 
+/*END OF FOOTER----------------------*/
+
+/*MAIN--------------------*/
+
+/*Slideshow*/
+
+.img-1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
 
 
+.carousel-indicators .active {
+    background-color: #ffff00;
+}
 
+.glyphicon-chevron-left {
+    color: #ffff00;
+}
+
+.glyphicon-chevron-right {
+    color: #ffff00;
+}
 
 
 
@@ -267,5 +298,5 @@
 
 
 .mememe {
-    background-color: #FFFF00;
+    background-color: #000;
 }
