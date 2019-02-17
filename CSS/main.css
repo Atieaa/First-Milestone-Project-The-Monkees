@@ -301,14 +301,16 @@
 }
 
 /*Line break*/
+
 .hr-custom {
     border-top: 10px dotted #ffff00;
     width: 85%;
-    
+
 }
 
 
 /*Iconic Youtube Video*/
+
 .hr-custom-2 {
     border-top: 3px solid #ff0000;
     width: 10%;
@@ -320,6 +322,16 @@
 }
 
 
+/*Instagram Pictures*/
+
+.instagram-custom {
+    margin: 10px;
+}
+
+.instagram-logo-custom {
+    background: none;
+    color: #ffff00;
+}
 
 
 
