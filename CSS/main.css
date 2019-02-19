@@ -1,6 +1,7 @@
 /* Imported Fonts---------------------------------------------------------------------*/
 
-@import url("https://fonts.googleapis.com/css?family=Monoton|Indie+Flower");
+@import url("https://fonts.googleapis.com/css?family=Monoton|Indie+Flower|Open+Sans|Quicksand");
+
 
 
 /* End of Imported Fonts--------------------------------------------------------------*/
@@ -304,6 +305,8 @@
 
 /*MAIN--------------------*/
 
+/*HOMEPAGE*/
+
 /*Slideshow*/
 
 .img-1 {
@@ -358,6 +361,21 @@
     color: #ffff00;
 }
 
+/*ABOUT PAGE*/
+
+/*About - Band*/
+.band_photo {
+    max-width: 75%;
+    max-height: 75%;
+    border-radius: 5%;
+    border: 5px solid #ff0000;
+}
+
+.paragraph-font {
+    color: #fff;
+    font-family: "Quicksand", sans-serif;
+    font-size: 16px;
+}
 
 
 
