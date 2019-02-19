@@ -379,8 +379,8 @@
 
 /*About - Band Members*/
 .media-object {
-    border-radius: 25%;
-    border: 5px dashed #ff0000;
+    
+    border: 5px dashed #ffff00;
 }
 
 .media-right{
