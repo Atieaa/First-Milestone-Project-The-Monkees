@@ -365,8 +365,8 @@
 
 /*About - Band*/
 .band_photo {
-    max-width: 75%;
-    max-height: 75%;
+    max-width: 80%;
+    max-height: 80%;
     border-radius: 5%;
     border: 5px solid #ff0000;
 }
@@ -377,7 +377,19 @@
     font-size: 16px;
 }
 
+/*About - Band Members*/
+.media-object {
+    border-radius: 25%;
+    border: 5px dashed #ff0000;
+}
 
+.media-right{
+    float: right;
+}
+
+.media {
+    margin: 20px;
+}
 
 
 
