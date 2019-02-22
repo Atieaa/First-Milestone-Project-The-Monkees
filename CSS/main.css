@@ -362,6 +362,14 @@
     color: #ffff00;
 }
 
+
+
+
+
+
+
+
+
 /*ABOUT PAGE*/
 
 /*About - Band*/
@@ -408,4 +416,49 @@
 
 span {
     color: #ffff00;
+}
+
+
+
+
+
+
+/*ALBUM PAGE*/
+
+.album-cover-custom {
+    margin: 10px;
+    animation: shadow-pop 0.5s ease-in-out both;
+    background-color: yellow;
+}
+
+.album-cover-custom:hover {
+    animation: shadow-pop;
+    cursor: pointer;
+    
+}
+
+@keyframes shadow-pop {
+    from {
+        box-shadow: 0 0 #3e3e3e, 0 0 #3e3e3e, 0 0 #3e3e3e, 0 0 #3e3e3e, 0 0 #3e3e3e, 0 0 #3e3e3e, 0 0 #3e3e3e, 0 0 #3e3e3e;
+        transform: translateX(0) translateY(0);
+    }
+    to {
+        box-shadow: 1px -1px #3e3e3e, 2px -2px #3e3e3e, 3px -3px #3e3e3e, 4px -4px #3e3e3e, 5px -5px #3e3e3e, 6px -6px #3e3e3e, 7px -7px #3e3e3e, 8px -8px #3e3e3e;
+        transform: translateX(-8px) translateY(8px);
+    }
+}
+
+.btn-custom-1 {
+    padding: 0;
+    border: none;
+    background-color: transparent;
+}
+
+.btn-custom-1:focus,.btn-custom-1:active {
+   outline: none !important;
+}
+
+.modal-content {
+    background-color: #000;
+    border: 5px solid #ffff00;
 }
