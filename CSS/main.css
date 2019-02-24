@@ -425,6 +425,8 @@ span {
 
 /*ALBUM PAGE*/
 
+/*Album Section*/
+
 .album-cover-custom {
     margin: 10px;
     animation: shadow-pop 0.5s ease-in-out both;
@@ -448,6 +450,7 @@ span {
     }
 }
 
+
 .btn-custom-1 {
     padding: 0;
     border: none;
@@ -461,4 +464,11 @@ span {
 .modal-content {
     background-color: #000;
     border: 5px solid #ffff00;
+}
+
+/*Clips*/
+.audio-custom {
+    border: 5px solid #ffff00;
+    border-radius: 30px;
+    margin-bottom: 20px;
 }
