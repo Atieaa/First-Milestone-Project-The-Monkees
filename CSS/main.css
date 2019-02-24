@@ -472,3 +472,18 @@ span {
     border-radius: 30px;
     margin-bottom: 20px;
 }
+
+/*Youtube Videos*/
+
+.youtube-logo-custom {
+    background: none;
+    color: #ffff00;
+}
+
+.youtube-custom-1 {
+    border: 5px solid #ffff00;
+}
+
+.youtube-custom-2 {
+    margin-bottom: 30px;
+}
