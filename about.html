@@ -150,7 +150,7 @@
                         <p class="media-heading paragraph-font text-justify">After the Monkees, Dolenz floundered for a time. He did voice over work for such animated series as Scooby Doo and made guest appearances on such television shows as My Three Sons. In the 1980s, however, Dolenz was lured back to
                             his life as a Monkee and to this day is touring with the remaining members.</p>
                     </div>
-                    
+
                     <!--For Mobile Display Only-->
                     <div class="col-xs-12 hidden-sm hidden-md hidden-lg paragraph-font center-me">
                         <h4><span><b>Name:</b></span> Micky Dolenz</h4>
@@ -173,7 +173,7 @@
                         <p class="media-heading paragraph-font text-justify">Outside of the Monkees, Nesmith has enjoyed some success as a solo artist and songwriter. He produced the 1968 hit, "Different Drum," for the Stone Poneys and then achieved two popular singles of his own in 1970: "Joanne" and "Silver
                             Moon." In recent years, Nesmith has largely stayed out of the public eye. He lives a quiet life, reportedly in Carmel, California.</p>
                     </div>
-                    
+
                     <!--For Mobile Display Only-->
                     <div class="col-xs-12 hidden-sm hidden-md hidden-lg paragraph-font center-me">
                         <h4><span><b>Name:</b></span> Michael Nesmith</h4>
@@ -196,7 +196,7 @@
                         <p class="media-heading paragraph-font text-justify">Tork has also explored his love of blues music. He performs with his group called Shoe Suede Blues, which he formed in the 1990s. Tork has also made numerous television appearances. He has done guest spots on such shows as 7th
                             Heaven and The King of Queens.</p>
                     </div>
-                    
+
                     <!--For Mobile Display Only-->
                     <div class="col-xs-12 hidden-sm hidden-md hidden-lg paragraph-font center-me">
                         <h4><span><b>Name:</b></span> Peter Tork</h4>
@@ -240,10 +240,37 @@
                 <!--Subscribe Button-->
                 <div class="hidden-xs col-sm-4">
                     <div class="center-me center-me-vertically-custom-4">
-                        <button type="button" class="btn btn-primary" id="custom-button-1">Subscribe!</button>
+                        <button type="button" class="btn btn-primary custom-button-1" data-toggle="modal" data-target="#mymodal">Subscribe!</button>
                     </div>
                 </div>
         </div>
+        </div>
+
+        <div class="container">
+            <div class="modal fade" id="mymodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                <div class="modal-dialog" role="document">
+                    <div class="jumbotron jumbotron-custom-3">
+                        <div class="center-me">
+                            <h2 class="paragraph-font-2">Keep in touch!</h2>
+
+                            <hr class="hr-custom-2" />
+                            <br />
+                            <small class="paragraph-font">Stay subscribed for the latest news on The Monkees</small>
+                        </div>
+                        <form>
+                            <div class="form-group">
+                                <label for="name" class="paragraph-font-2">Full Name:</label>
+                                <input type="name" class="form-control" id="name" placeholder="Enter Full Name Here" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email" class="paragraph-font-2">Email:</label>
+                                <input type="email" class="form-control" id="email" placeholder="Enter Email Address Here" required>
+                            </div>
+                            <button type="submit" class="btn btn-default">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
         </div>
     </footer>
     <!--END OF FOOTER-->
