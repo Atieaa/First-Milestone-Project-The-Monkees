@@ -1,9 +1,5 @@
 /* Imported Fonts---------------------------------------------------------------------*/
-
 @import url("https://fonts.googleapis.com/css?family=Monoton|Indie+Flower|Open+Sans|Quicksand");
-
-
-
 /* End of Imported Fonts--------------------------------------------------------------*/
 
 /* HEADER-----------------------------------------------------------------------------*/
@@ -486,4 +482,37 @@ span {
 
 .youtube-custom-2 {
     margin-bottom: 30px;
+}
+
+/*NEWS PAGE*/
+.paragraph-font-2 {
+    color: #fff;
+    font-family: "Quicksand", sans-serif;
+}
+
+.paragraph-font-3 {
+    color: #ff0000;
+    font-family: "Quicksand", sans-serif;
+    text-decoration: none
+}
+
+.paragraph-font-3:hover {
+    color: #a94442;
+    font-family: "Quicksand", sans-serif;
+    text-decoration: none
+}
+
+.paragraph-font-3:focus {
+    color: #a94442;
+    font-family: "Quicksand", sans-serif;
+    text-decoration: none
+}
+
+.media-object-2 {
+
+    border: 5px solid #ffff00;
+}
+
+.hr-custom-3 {
+    border: dashed #ff0000;
 }
