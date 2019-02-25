@@ -263,7 +263,7 @@
 
 /* Subscribe button */
 
-#custom-button-1 {
+.custom-button-1 {
     background: #0000ff;
     border-radius: 1000px;
     padding: 8px 20px;
@@ -296,6 +296,11 @@
     .center-me-vertically-custom-4 {
         margin-bottom: 50px;
     }
+}
+
+.jumbotron-custom-3 {
+    background-color: #040035;
+    border: 1px solid #ffff00;
 }
 
 /*END OF FOOTER----------------------*/
@@ -537,6 +542,7 @@ span {
 .btn-form {
     border-color: #ffff00;
     background-color: #09847e;
+    color: #fff;
 }
 
 .btn-form:hover {
