@@ -522,3 +522,24 @@ span {
     background-color: #040035;
     border: 10px solid #ffff00 ;
 }
+
+/*Contact Page*/
+.jumbotron-custom-2 {
+ background-color: #0e363a;
+ border: 10px solid #ffff00
+}
+
+.paragraph-font-4 {
+    color: #fff;
+    font-weight: 100;
+}
+
+.btn-form {
+    border-color: #ffff00;
+    background-color: #09847e;
+}
+
+.btn-form:hover {
+    border-color: #ffff00;
+    background-color: #09847e66;
+}

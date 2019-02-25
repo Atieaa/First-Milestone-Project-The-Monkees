@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The Monkees</title>
+    <link rel="shortcut icon" type="image/x-icon" href="Media/Images/Miscellaneous/compact-disc.png" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="CSS/main.css" type="text/css" />
+    <link rel="stylesheet" href="CSS/style1.css" type="text/css" />
+</head>
+
+
+<body class="default-color">
+
+    <!--Scroll to top function-->
+    <div class="hidden-xs hidden-sm">
+        <button onclick="topFunction()" id="myBtn" title="Go to top">Scroll to top</button>
+    </div>
+
+
+    <!--HEADER-->
+    <header class="header-style">
+        <!-- Navigation Header -->
+        <nav class="navbar navbar-default" id="navbar-nav">
+            <div class="container-fluid color-me-first">
+                <div class="margin-me center-me">
+                    <!-- Logo -->
+                    <div class="hidden-xs col-sm-12 col-md-4 pull-left">
+                        <a href="index.html">
+            <img src="Media/Images/Miscellaneous/monkees-com-header-logo-updated.png" alt="Monkees Logo" />
+            </a>
+                    </div>
+                    <!-- Title -->
+                    <div class="col-xs-12 col-md-4 center-me-vertically-custom no-decoration">
+                        <a href="index.html">
+                            <h1 class="unique-font">The Monkees</h1>
+                        </a>
+                    </div>
+                    <!-- Slogan -->
+                    <div class="col-xs-12 col-md-4 navbar-right center-me-vertically-custom-2">
+                        <h2 class="fancy-quote-font">People say we monkey around but we're too busy singing</h2>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <!-- Navigation Links -->
+            <div class="container-fluid color-me-first">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+                </div>
+
+                <!-- Toggle button activated -->
+                <div class="center-me-2">
+                    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                        <ul class="nav navbar-nav">
+                            <li class="custom-li"><a href="index.html"><span class="unordered_list_style">Home</span></a></li>
+                            <li class="custom-li"><a href="about.html"><span class="unordered_list_style">About</span></a></li>
+                            <li class="custom-li"><a href="album.html"><span class="unordered_list_style">Album</span></a></li>
+                            <li class="custom-li"><a href="news.html"><span class="unordered_list_style">News</span></a></li>
+                            <li class="custom-li"><a href="contact.html"><span class="unordered_list_style">Contact</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <!--END OF HEADER-->
+
+    <!--MAIN-->
+    <main>
+
+        <!--Contact Form-->
+        <section>
+            <div class="container">
+                <h1 class="fancy-quote-font center-me">Book with us!</h1>
+                <p class=paragraph-font>We are activley looking to perform at various events and bring some music to life with our outstanding performance. Please fill out the form below and we will be more than happy to get back to you as soon as possible.</p>
+                <div class="col-xs-12">
+                    <br />
+                    <div class="jumbotron jumbotron-custom-2 paragraph-font-4">
+                        <form>
+                            <div class="form-group">
+                                <label for="name" class="control-label">Full Name</label>
+                                <input type="name" class="form-control" id="name" placeholder="Enter Full Name Here" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email address</label>
+                                <input type="email" class="form-control" id="email" placeholder="Enter Email Address Here" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="telephone" class="control-label">Telephone or Mobile Number</label>
+                                <input type="number" class="form-control" id="telephone" placeholder="Enter telephone or mobile number here" required>
+                            </div>
+                            <h5><b>Event:</b></h5>
+                            <div class="radio">
+                                <label>
+                                   <input type="radio" name="optionsRadios" id="optionsRadios1" value="option1"> Wedding
+                                </label>
+                            </div>
+                            <div class="radio">
+                                <label>
+                                   <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2"> Christmas Party
+                                </label>
+                            </div>
+                            <div class="radio">
+                                <label>
+                                   <input type="radio" name="optionsRadios" id="optionsRadios3" value="option3"> Birthday Party
+                                </label>
+                            </div>
+                            <div class="radio">
+                                <label>
+                                   <input type="radio" name="optionsRadios" id="optionsRadios4" value="option4"> Other (if 'other' is chosen, please specify in the text box below)
+                                </label>
+                            </div>
+                            <textarea class="form-control" rows="3"></textarea>
+                            <br />
+                            <h5><b>Any Additional Comments:</b></h5>
+                            <textarea class="form-control" rows="3"></textarea>
+                            <br />
+                            <button type="submit" class="btn btn-default btn-form">Submit</button>
+                        </form>
+                    </div>
+                </div>
+        </section>
+
+    </main>
+    <!--END OF MAIN-->
+
+
+
+    <!--FOOTER-->
+    <footer class="header-style">
+        <div class="container-fluid color-me-first">
+            <div="row">
+
+
+                <!--Socials-->
+                <div class="col-xs-12 col-sm-4 no-decoration center-me center-me-vertically-custom-3">
+                    <a href="https://www.facebook.com/TheMonkees/" target="_blank" class="fa fa-facebook faso"></a>
+                    <a href="https://twitter.com/TheMonkees" target="_blank" class="fa fa-twitter faso"></a>
+                    <a href="https://www.instagram.com/themonkees/" target="_blank" class="fa fa-instagram faso"></a>
+                    <a href="https://www.youtube.com/channel/UCv1oY0OLtsEySHeP1TkYNqA" target="_blank" class="fa fa-youtube faso"></a>
+                </div>
+
+
+                <!--Title and trademark-->
+                <div class="col-xs-12 col-sm-4">
+                    <div class="center-me">
+                        <h2 class="unique-font-2">The Monkees</h2>
+                    </div>
+                    <div class="center-me">
+                        <p class="unique-font-3"><span><i class="fa fa-copyright"></i></span>The Monkees</p>
+                    </div>
+                </div>
+
+
+                <!--Subscribe Button-->
+                <div class="hidden-xs col-sm-4">
+                    <div class="center-me center-me-vertically-custom-4">
+                        <button type="button" class="btn btn-primary" id="custom-button-1">Subscribe!</button>
+                    </div>
+                </div>
+        </div>
+        </div>
+    </footer>
+    <!--END OF FOOTER-->
+
+
+    <!--Scroll to top function-->
+    <script>
+        window.onscroll = function() { scrollFunction() };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                document.getElementById("myBtn").style.display = "block";
+            }
+            else {
+                document.getElementById("myBtn").style.display = "none";
+            }
+        }
+
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
+
+
+
+</body>
+
+
+</html>
