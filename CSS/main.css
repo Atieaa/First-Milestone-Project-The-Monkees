@@ -516,3 +516,9 @@ span {
 .hr-custom-3 {
     border: dashed #ff0000;
 }
+
+/*Subscribe*/
+.jumbotron-custom-1 {
+    background-color: #040035;
+    border: 10px solid #ffff00 ;
+}
