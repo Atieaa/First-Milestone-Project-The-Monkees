@@ -1,4 +1,5 @@
 /* Imported Fonts---------------------------------------------------------------------*/
+
 @import url("https://fonts.googleapis.com/css?family=Monoton|Indie+Flower|Open+Sans|Quicksand");
 /* End of Imported Fonts--------------------------------------------------------------*/
 
@@ -74,6 +75,18 @@
     animation: neon 0.5s ease-in-out infinite alternate;
 }
 
+.make-me-small {
+    font-family: "Monoton", sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    text-align: left;
+    line-height: 1;
+    color: #ffff00;
+    animation: neon 0.5s ease-in-out infinite alternate;
+    margin: 0;
+}
+
+
 .no-decoration a:hover {
     text-decoration: none;
 }
@@ -116,6 +129,22 @@
 /* NAVIGATION LINKS */
 
 /* Links */
+.navbar-header {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-toggle{
+    margin: 0;
+}
+
+.navbar-brand {
+    padding-top: 5px;
+     padding-bottom:0;
+     padding-right:0;
+}
+
+
 
 .unordered_list_style {
     font-family: "Monoton", sans-serif;
@@ -431,7 +460,7 @@ span {
 .album-cover-custom:hover {
     animation: shadow-pop;
     cursor: pointer;
-    
+
 }
 
 @keyframes shadow-pop {
@@ -452,8 +481,9 @@ span {
     background-color: transparent;
 }
 
-.btn-custom-1:focus,.btn-custom-1:active {
-   outline: none !important;
+.btn-custom-1:focus,
+.btn-custom-1:active {
+    outline: none !important;
 }
 
 .modal-content {
@@ -462,6 +492,7 @@ span {
 }
 
 /*Clips*/
+
 .audio-custom {
     border: 5px solid #ffff00;
     border-radius: 30px;
@@ -484,6 +515,7 @@ span {
 }
 
 /*NEWS PAGE*/
+
 .paragraph-font-2 {
     color: #fff;
     font-family: "Quicksand", sans-serif;
@@ -517,15 +549,17 @@ span {
 }
 
 /*Subscribe*/
+
 .jumbotron-custom-1 {
     background-color: #040035;
-    border: 10px solid #ffff00 ;
+    border: 10px solid #ffff00;
 }
 
 /*Contact Page*/
+
 .jumbotron-custom-2 {
- background-color: #0e363a;
- border: 10px solid #ffff00
+    background-color: #0e363a;
+    border: 10px solid #ffff00
 }
 
 .paragraph-font-4 {
