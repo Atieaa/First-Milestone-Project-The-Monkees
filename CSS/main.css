@@ -117,8 +117,21 @@
     font-family: "Indie Flower", sans-serif;
     color: #ffff00;
     font-weight: 900;
+    text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
+}
+
+.fancy-quote-font-1 {
+    font-family: "Indie Flower", sans-serif;
+    color: #ffff00;
+    font-weight: 900;
     animation: neon 0.5s ease-in-out infinite alternate;
 }
+
 
 @media (min-width: 992px) {
     .center-me-vertically-custom-2 {
