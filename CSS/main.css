@@ -142,19 +142,20 @@
 /* NAVIGATION LINKS */
 
 /* Links */
+
 .navbar-header {
     margin: 0;
     padding: 0;
 }
 
-.navbar-toggle{
+.navbar-toggle {
     margin: 0;
 }
 
 .navbar-brand {
     padding-top: 5px;
-     padding-bottom:0;
-     padding-right:0;
+    padding-bottom: 0;
+    padding-right: 0;
 }
 
 
@@ -261,6 +262,13 @@
     }
 }
 
+@media (min-width: 819px) and (max-width: 1054px) {
+    .hidden-custom-2 {
+        top: 23px;
+        padding: 0;
+        display: flex;
+    }
+}
 
 /*Title and Copyright*/
 
@@ -525,6 +533,12 @@ span {
 
 .youtube-custom-2 {
     margin-bottom: 30px;
+}
+
+@media (min-width: 991px) and (max-width: 1206px) {
+    .hidden-custom {
+        display: none;
+    }
 }
 
 /*NEWS PAGE*/
