@@ -10,30 +10,34 @@ The UX design process was intialised as a means for making sure that the project
 
 Please refer to the following links below in demonstrating the UX process (shown within the UX Design directory):
 
-<b>Strategy:</b> Includes the goal and objectives of three different users involved as well as some research on competitors - <a href="UX-Design/Strategy-Plane.pdf" target="_blank">Click Here</a>
+<b>Strategy:</b> Includes the goal and objectives of three different users involved as well as some research on competitors - <a href="UX-Design/Strategy-Plane.pdf">Click Here</a>
 
-<b>Scope:</b> Includes the user stories and the generated functions/features (The functions/features will be mentioned in the next section below) - <a href="UX-Design/Scope-Plane.pdf" target="_blank">Click Here</a>  
+<b>Scope:</b> Includes the user stories and the generated functions/features (The functions/features will be mentioned in the next section below) - <a href="UX-Design/Scope-Plane.pdf">Click Here</a>  
 
 <b>Structure:</b> The structure plane was taken into consideration during the wireframes process and so is shown within the skeleton plane.
 
-<b>Skeleton:</b> This plane solely involves the use of wireframes with the addition of Information Architecture (IA) by placing the functions in certain parts of the website for a specified reason/importance. The wireframes used display both in desktop and in mobile version - <a href="UX-Design/Skeleton-Plane.pdf" target="_blank">Click Here</a>  
+<b>Skeleton:</b> This plane solely involves the use of wireframes with the addition of Information Architecture (IA) by placing the functions in certain parts of the website for a specified reason/importance. The wireframes used display both in desktop and in mobile version - <a href="UX-Design/Skeleton-Plane.pdf">Click Here</a>  
 
 <b>Surface:</b> With a aid of research, the surface plane was dealt with as the coding for the project had started. 
 
-## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+## Functions/Features
  
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+### Existing Functions/Features
+- Navigation - This includes the logo on every page, a different quote/slogan on every page for fans and potential fans to reminisce with, Title of the band and the links to navigate to the other pages with ease.
+- Hamburger Navigation - Used for mobile display only. Only includes the title and the hamburger icon with a dropdown page list for the user.
+- Footer - Social media links provided to allow users to explore more into the band. Trademark signature inserted for copyright purposes. A subscription button included for users to keep in touch with the band’s website.
+- Home Page - Either a slideshow (carousel) of photos OR a background photo with big and clear headings to entice the audience. An all-time classic music video inserted. Instagram pictures of the band together.
+- About Page - Includes main picture of the band members together with some generic background information on the Monkees and a separate space for each of the members with their relative pictures and personal background information.
+- Album Page - Album pictures inserted as modal items; when clicked on, the song lists within that album are shown. clips of songs inserted to showcase their music and additional Youtube videos are inserted at the end.
+- News Page - Any relevant information on the past/current/future activities associated with the Monkees. This will consist of short snippets of information followed by a floated picture and a link to the full information describing the event/news. Subscription Jumbotron should be implemented at this point to allow user to receive any updates via email. 
+- Contact Page - A form that asks for the user’s full name, email address, an option to choose a performing event (examples are weddings or Christmas parties etc.) and a message box for any additional information the user wants to add.
+- Scroll to top - This feature has been added to allow the users to automatically scroll back to the beginning of the page with ease.
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-- Another feature idea
+### Functions/Features Left to Implement
+- Live Concert Page - A potential to include any upcoming performance by the Monkees with their corrosponding dates and tickets purchase.
+- Shop Page - As with the competitors, a shop page consisting of the Monkees most valuable merchandise could be included for sale in particular for loyal fans to buy from. Consequently, a payment transaction feature would be needed to carry out the shop page's objective.
+- Banner - The banner could be included at the very most top of every page to indicate an important live update with the Monkees.
+- News Page - A continous way to bring on the next current news on the Monkees would be ideal. 
 
 ## Technologies Used
 
