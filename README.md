@@ -1,10 +1,10 @@
-# Your Project's Name
+# First Milestone Project - The Monkees
 
-One or two paragraphs providing an overview of your project.
+This project is designed for the pupose of utilising what has been taught from the Code Institute. The main aim of the project is to build a static (front-end) website for a band known as the Monkees as requested by the client's represensitives within the briefing.
 
-Essentially, this part is your sales pitch.
+The Monkees started out within their acting career in 1965 with the intention of creating a TV show that would try and mimic the Beatles band yet fail at becoming as successful as them. Despite their inital purpose however, the Monkees had become one of the most iconic bands during the late 1960's among Queen and the Beatles!
  
-## UX
+## User Experience (UX)
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -12,6 +12,22 @@ In particular, as part of this section we recommend that you provide a list of U
 - As a user type, I want to perform an action, so that I can achieve a goal.
 
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+
+
+
+The UX design process was intialised as a means for making sure that the project is to become as successful as possible for the key users/stakeholders involved. For this project in particular, the 5 planes of UX design; Strategy, Scope, Structure, Skeleton and Surface were used to the best of my ability given the available information within the briefing as well as additional research. 
+
+Please refer to the following links below in demonstrating the UX process (shown within the UX Design directory):
+
+<b>Strategy:</b> Includes the goal and objectives of three different users involved as well as some research on competitors - <a href="UX-Design/Strategy-Plane.pdf">Click Here</a>
+
+<b>Scope:</b> Includes the user stories and the generated functions/features (The functions/features will be mentioned in the next section below) - <a href="UX-Design/Scope-Plane.pdf">Click Here</a>  
+
+<b>Structure:</b> The structure plane was taken into consideration during the wireframes process and so is shown within the skeleton plane.
+
+<b>Skeleton:</b> This plane solely involves the use of wireframes with the addition of Information Architecture (IA) by placing the functions in certain parts of the website for a specified reason/importance. The wireframes used display both in desktop and in mobile version - <a href="UX-Design/Skeleton-Plane.pdf">Click Here</a>  
+
+<b>Surface:</b> With a aid of research, the surface plane was dealt with as the coding for the project had started. 
 
 ## Features
 
