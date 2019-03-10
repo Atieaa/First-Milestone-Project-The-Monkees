@@ -43,9 +43,47 @@ Please refer to the following links below in demonstrating the UX process (shown
 
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- HTML5 
+   - Most of the project has been constructed using the latest version of HTML (HTML5).
 
+- CSS3
+   - Using the latest version of CSS alongside the html basis was used in order to construct a static website.
+
+- JS
+   - A small amount of JavaScript was used for this project and was taken from an open source website.
+   - [Scroll to top function](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp)
+      - Scroll to top function implemented to allow user to return to the main navigation header quicker with ease.
+   - [Modal](https://getbootstrap.com/docs/3.3/javascript/#modals)
+      - Modals used within the album pictures to present the song list and used for the 'subscribe' button at the footer to allow the user to subscribe to the Monkees.
+
+- [Bootstrap](https://getbootstrap.com/docs/3.3/css/)
+   - Bootstrap 3.3.7 version was used for this project for certain elements within the project such as the navigation header and the grid system.
+
+- [FontAwesome](https://fontawesome.com/)
+   - FontAwesome has been used to obtain icons such as the social media icons.
+   
+- [Flaticon](https://www.flaticon.com/free-icon/compact-disc_148725 )
+   - The compact disc logo used in the tab. 
+
+- [Google Fonts](https://fonts.google.com/)
+   - The two font styles that were used within the project were taken from google fonts.
+
+- [Glowing Text Effect](https://codemyui.com/cursive-text-neon-text-effect/)
+   - The glowing effect used for the main title 'The Monkees' were inspired by codemyui plus personal adaptation to the code imported. 
+
+- [Box Shadow Animation](http://animista.net/play/basic/shadow-pop/shadow-pop-tr)
+   - The box shadow animation used for the albums within the album page were taken from animista plus personal adaptation to the code imported.
+
+- [FreeFrontEnd](https://freefrontend.com/css-music-players/)
+   - The Audio players used within the clips section in the album page via desktop view was inspired by Alex Fernandez (2015) - The code snippet for the HTML, CSS and JS were taken from https://codepen.io/LegendAF/pen/NGZZep and personally edited to achieve best UX design.
+
+- [Stack Overflow](https://stackoverflow.com/)
+   - Stack Overflow has been used to overcome any issues or additional required code snippets. 
+     - The HTML code snippet for the compact disk icon was taken from Nick and Tim Cooper (2009-2018) - https://stackoverflow.com/questions/1417480/how-do-i-get-my-page-title-to-have-an-icon 
+     - The HTML code snippet for restarting the song within the clips used in the album page were taken from Adeneo (2013) - https://stackoverflow.com/questions/17636310/play-audio-and-restart-it-onclick 
+
+- [W3Schools](https://www.w3schools.com/)
+   - W3Schools was used throughout the project to aid any additional reminders on how certaqin codes are to be implemented within W3S standards.
 
 ## Testing
 
