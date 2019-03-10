@@ -1,4 +1,4 @@
-# First Milestone Project - The Monkees
+# [First Milestone Project - The Monkees](https://atieaa.github.io/First-Milestone-Project-The-Monkees/)
 
 This project is designed for the pupose of utilising what has been taught from the Code Institute. The main aim of the project is to build a static (front-end) website for a band known as the Monkees as requested by the client's represensitives within the briefing.
 
@@ -83,7 +83,7 @@ In this section, you should mention all of the languages, frameworks, libraries,
      - The HTML code snippet for restarting the song within the clips used in the album page were taken from Adeneo (2013) - https://stackoverflow.com/questions/17636310/play-audio-and-restart-it-onclick 
 
 - [W3Schools](https://www.w3schools.com/)
-   - W3Schools was used throughout the project to aid any additional reminders on how certaqin codes are to be implemented within W3S standards.
+   - W3Schools was used throughout the project to aid any additional reminders on how certain codes are to be implemented within W3S standards.
 
 ## Testing
 
@@ -107,15 +107,18 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+The deployment of the project consisted of an interaction between the local and the remote repository. 
+In terms of the local repsoitory, Cloud9 IDE was used.
+In terms of the remote repsoitory, Github was used. 
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+The local repository was created at the first instance the project was initiated. Throughout the project, each function or feature implemented was followed up directly to a git commit command to ensure the addition and/or changes were set.
+Once as many functions/features have been committed to the local repository towards the end of the project, all committed actions were pushed to the remote repository within Github.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+All pushed actions were stored within the master branch of Github. 
 
+The website was then set to the master branch within the settings in Github and allowed 15-20 minutes for the website to be fully deployed for users to see.
+
+Additional changes to the website needed re-commite within the cloud9 IDE and re-pushed towards the remote repository.
 
 ## Credits
 
