@@ -123,11 +123,58 @@ Additional changes to the website needed re-commite within the cloud9 IDE and re
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for the band members was copied and altered slightly from the [biography.com editors (2017)](https://www.biography.com/people/groups/the-monkees)
+- The text used for the band as a whole was inspired and re-written personally from the [Monkees Wikipedia](https://en.wikipedia.org/wiki/The_Monkees) 
+- The text used for the news section was obtained and altered from the [Monkees website](https://www.monkees.com/)
 
 ### Media
-- The photos used in this site were obtained from ...
+
+#### Photos
+The photos used for the project taken from various sources and edited in Cloud9 IDE to obtain the same or similar sizes to each other within the same directory. 
+
+##### Slideshow Photos
+-sldsh 1 - http://flavorwire.com/559875/the-monkees-announce-new-album-featuring-songs-by-rivers-cuomo-noel-gallagher-ben-gibbard-and-others
+-sldsh 2 - https://www.rollingstone.com/music/music-news/micky-dolenz-talks-monkees-christmas-album-christmas-party-735729/ 
+-sldsh 3 - http://www.immusicmag.com/2016/05/the-monkees-have-the-1-new-album-on-amazon-yes-the-monkees/
+-sldsh 4 - http://shazamaholic.blogspot.com/2016/05/review-monkees-good-times.html 
+-sldsh 5 - https://www.rollingstone.com/music/music-news/the-monkees-to-monkey-around-the-u-s-on-summer-tour-189355/ 
+
+##### About Photos
+- Band Photo - https://variety.com/2016/music/news/moonkees-reunite-for-tour-album-1201698617/ 
+- Davy Jones Portrait, Michael Nesmith Portrait, Micky Dolenz Portrait and Peter Tork Portrait - https://github.com/Code-Institute-Org/project-assets
+- Peter Tork Portrait 2 - https://www.biography.com/people/peter-tork-20758183 
+
+##### Album Cover Photos
+- Album 1 – http://monkees.wikia.com/wiki/The_Monkees_(album) 
+- Album 2 – https://www.amazon.com/More-Monkees-Deluxe/dp/B00122KC12 
+- Album 3 – https://www.merchbar.com/pop/monkees/monkees-headquarters 
+- Album 4 – https://www.thestranger.com/slog/2017/11/14/25563618/pisces-aquarius-capricorn-and-jones-ltd-the-monkees-sgt-pepper-came-out-50-years-ago-today 
+- Album 5 – https://www.discogs.com/The-Monkees-The-BirdsBees-The-Monkees/master/96914 
+- Album 6 – https://www.allmusic.com/album/head-mw0000126573 
+- Album 7 – https://www.discogs.com/The-Monkees-The-Monkees-Present/release/4963904 
+- Album 8 – https://www.monkeeslivealmanac.com/blog/rhinos-1995-instant-replay-compact-disc 
+- Album 9 – https://monkees.coolcherrycream.com/picturedb/locations/pool?album=64 
+- Album 10 – https://www.discogs.com/The-Monkees-Justus/release/1375813 
+- Album 11 – https://www.discogs.com/The-Monkees-Good-Times/master/1008317 
+- Album 12 – https://www.rhino.com/article/the-monkees-to-release-christmas-party-their-first-ever-holiday-album 
+
+##### Instagram Photos
+The Instagram Photos were taken directly from the Monkees instagram platform - https://www.instagram.com/themonkees/ 
+
+### Video
+
+All Videos were taken directly from the Monkees Youtube platform - https://www.youtube.com/channel/UCv1oY0OLtsEySHeP1TkYNqA 
+
+### Clips
+
+All clips were taken from the Monkees youtube platform and converted  to mp3 format online for the use of audio only. 
+
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+I would like to personally thank the CodeInstitue for enabling me to aquire the basic knowledge and introductory into the world of web development! 
+My thanks also goes out to my tutor; Ravi Lakhotia for providing me the insight needed to fulfill the requirements for a successful project as well as any general advice associating with web development.
+And finally many thanks to the people within the slack community for the immediate and supportive response to any queries that were addressed from that start of the course up until now. 
+
+
+
