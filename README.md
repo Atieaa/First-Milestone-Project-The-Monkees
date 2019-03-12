@@ -105,6 +105,11 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+Browsers Tested on: 
+- Chrome (DevOps used to test on all screen sizes)
+- Microsoft Edge 
+- Mozilla Firefox
+
 ## Deployment
 
 The deployment of the project consisted of an interaction between the local and the remote repository. 
@@ -130,14 +135,14 @@ Additional changes to the website needed re-commite within the cloud9 IDE and re
 ### Media
 
 #### Photos
-The photos used for the project taken from various sources and edited in Cloud9 IDE to obtain the same or similar sizes to each other within the same directory. 
+The photos used for the project were taken from various sources and edited in Cloud9 IDE to obtain the same or similar sizes to each other within the same directory. 
 
 ##### Slideshow Photos
--sldsh 1 - http://flavorwire.com/559875/the-monkees-announce-new-album-featuring-songs-by-rivers-cuomo-noel-gallagher-ben-gibbard-and-others
--sldsh 2 - https://www.rollingstone.com/music/music-news/micky-dolenz-talks-monkees-christmas-album-christmas-party-735729/ 
--sldsh 3 - http://www.immusicmag.com/2016/05/the-monkees-have-the-1-new-album-on-amazon-yes-the-monkees/
--sldsh 4 - http://shazamaholic.blogspot.com/2016/05/review-monkees-good-times.html 
--sldsh 5 - https://www.rollingstone.com/music/music-news/the-monkees-to-monkey-around-the-u-s-on-summer-tour-189355/ 
+- sldsh 1 - http://flavorwire.com/559875/the-monkees-announce-new-album-featuring-songs-by-rivers-cuomo-noel-gallagher-ben-gibbard-and-others
+- sldsh 2 - https://www.rollingstone.com/music/music-news/micky-dolenz-talks-monkees-christmas-album-christmas-party-735729/ 
+- sldsh 3 - http://www.immusicmag.com/2016/05/the-monkees-have-the-1-new-album-on-amazon-yes-the-monkees/
+- sldsh 4 - http://shazamaholic.blogspot.com/2016/05/review-monkees-good-times.html 
+- sldsh 5 - https://www.rollingstone.com/music/music-news/the-monkees-to-monkey-around-the-u-s-on-summer-tour-189355/ 
 
 ##### About Photos
 - Band Photo - https://variety.com/2016/music/news/moonkees-reunite-for-tour-album-1201698617/ 
@@ -172,9 +177,9 @@ All clips were taken from the Monkees youtube platform and converted  to mp3 for
 
 ### Acknowledgements
 
-I would like to personally thank the CodeInstitue for enabling me to aquire the basic knowledge and introductory into the world of web development! 
-My thanks also goes out to my tutor; Ravi Lakhotia for providing me the insight needed to fulfill the requirements for a successful project as well as any general advice associating with web development.
-And finally many thanks to the people within the slack community for the immediate and supportive response to any queries that were addressed from that start of the course up until now. 
+- I would like to personally thank the CodeInstitue for enabling me to aquire the basic knowledge and introductory into the world of web development! 
+- My thanks also goes out to my tutor; Ravi Lakhotia for providing me the insight needed to fulfill the requirements for a successful project as well as any general advice associating with web development.
+- And finally many thanks to the people within the slack community for the immediate and supportive response to any queries that were addressed from that start of the course up until now. 
 
 
 

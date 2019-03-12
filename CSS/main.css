@@ -73,6 +73,7 @@
     line-height: 1;
     color: #ffff00;
     animation: neon 0.5s ease-in-out infinite alternate;
+    -ms-animation: neon 0.5s ease-in-out infinite alternate;
 }
 
 .make-me-small {
@@ -83,6 +84,7 @@
     line-height: 1;
     color: #ffff00;
     animation: neon 0.5s ease-in-out infinite alternate;
+    -ms-animation: neon 0.5s ease-in-out infinite alternate;
     margin: 0;
 }
 
@@ -123,6 +125,12 @@
     0 0 21px rgba(30, 37, 242, 0.83),
     0 0 34px rgb(21, 18, 241, 0.87),
     0 0 54px rgba(30, 37, 242, 0.92);
+    -ms-text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
 }
 
 .fancy-quote-font-1 {
@@ -130,6 +138,7 @@
     color: #ffff00;
     font-weight: 900;
     animation: neon 0.5s ease-in-out infinite alternate;
+    -ms-animation: neon 0.5s ease-in-out infinite alternate;
 }
 
 
@@ -168,6 +177,12 @@
     line-height: 1;
     color: #ffff00;
     text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
+    -ms-text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
     0 0 30px rgba(202, 228, 225, 0.34),
     0 0 12px rgba(30, 85, 242, 0.52),
     0 0 21px rgba(30, 37, 242, 0.83),
@@ -219,6 +234,12 @@
     0 0 21px rgba(30, 37, 242, 0.83),
     0 0 34px rgb(21, 18, 241, 0.87),
     0 0 54px rgba(30, 37, 242, 0.92);
+    -ms-text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
 
 }
 
@@ -233,6 +254,13 @@
         text-decoration: none;
         border-radius: 50%;
         text-shadow: 0 0 6px rgba(202, 228, 225, 0.92), 0 0 30px rgba(202, 228, 225, 0.34), 0 0 12px rgba(30, 85, 242, 0.52), 0 0 21px rgba(30, 37, 242, 0.83), 0 0 34px rgb(21, 18, 241, 0.87), 0 0 54px rgba(30, 37, 242, 0.92);
+        -ms-text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+        0 0 30px rgba(202, 228, 225, 0.34),
+        0 0 12px rgba(30, 85, 242, 0.52),
+        0 0 21px rgba(30, 37, 242, 0.83),
+        0 0 34px rgb(21, 18, 241, 0.87),
+        0 0 54px rgba(30, 37, 242, 0.92);
+
     }
 }
 
@@ -282,6 +310,12 @@
     0 0 21px rgba(30, 37, 242, 0.83),
     0 0 34px rgb(21, 18, 241, 0.87),
     0 0 54px rgba(30, 37, 242, 0.92);
+    -ms-text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
 }
 
 
@@ -293,11 +327,18 @@
     line-height: 1;
     color: #ffff00;
     animation: neon 0.5s ease-in-out infinite alternate;
+    -ms-animation: neon 0.5s ease-in-out infinite alternate;
 }
 
 .unique-font-3 {
     color: #ffff00;
     text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
+    -ms-text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
     0 0 30px rgba(202, 228, 225, 0.34),
     0 0 12px rgba(30, 85, 242, 0.52),
     0 0 21px rgba(30, 37, 242, 0.83),
@@ -316,6 +357,12 @@
     font: normal 700 24px/1 "Indie Flower", cursive;
     text-align: center;
     text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
+    0 0 30px rgba(202, 228, 225, 0.34),
+    0 0 12px rgba(30, 85, 242, 0.52),
+    0 0 21px rgba(30, 37, 242, 0.83),
+    0 0 34px rgb(21, 18, 241, 0.87),
+    0 0 54px rgba(30, 37, 242, 0.92);
+    -ms-text-shadow: 0 0 6px rgba(202, 228, 225, 0.92),
     0 0 30px rgba(202, 228, 225, 0.34),
     0 0 12px rgba(30, 85, 242, 0.52),
     0 0 21px rgba(30, 37, 242, 0.83),
