@@ -93,6 +93,12 @@ Browsers Tested on:
 - Mozilla Firefox
 - Opera
 
+Devices Tested on:
+- BenQ Desktop Monitor
+- HP Laptop
+- Sony Xperia Z5
+- IPad 
+
 All of the user stories have been fulfilled to a good standard.
 
 W3C Standards:
