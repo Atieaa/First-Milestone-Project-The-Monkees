@@ -107,8 +107,24 @@ If this section grows too long, you may want to split it off into a separate fil
 
 Browsers Tested on: 
 - Chrome (DevOps used to test on all screen sizes)
-- Microsoft Edge 
+- Microsoft Edge (Bug found where the shadow effect does not work on the titles even when -ms- is used)
 - Mozilla Firefox
+- Opera
+
+All of the user stories have been fulfilled to a good standard.
+
+W3C Standards:
+
+- Using the W3C HTML validator: No displayed error or warnings were shown within the about, album, news and contact page. The index.html page indicated 1 uneccesary warning. 
+- Using the W3C CSS validator: No errors shown, but 14 warnings were shown in regards to using an unknown vendor extension. (Relating to the bug found in microsoft edge).
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
 ## Deployment
 
