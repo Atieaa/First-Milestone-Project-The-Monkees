@@ -386,7 +386,7 @@ html {
 .vinyl__circle {
     -webkit-animation: rotate 1s linear infinite both paused;
     -moz-animation: rotate 1s linear infinite both paused;
-    animation: rotate 1s linear infinite both paused;
+    animation: rotate 1s linear infinite both;
     background-color: #262121;
     z-index: 10;
 }
